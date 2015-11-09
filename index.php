@@ -6,6 +6,6 @@ echo "Hello world !";
 echo "<br />";
 echo date("d/m/Y H:i:s");
 echo "<br />";
-echo "Mise à jour de Julien 01";
+echo "Mise à jour de Julien 02";
 
 ?>
